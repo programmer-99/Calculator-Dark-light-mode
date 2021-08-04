@@ -10,7 +10,10 @@ Its useful for simple calculations.
 * Subtract
 * Divide
 
-# Built With
+## Built With
 * HTML
 * CSS
 * JavaScript
+
+## How to Run?
+To run my application you simply need to clone the project and run the index.html file.
